@@ -1,3 +1,4 @@
-# sr_short_forecast
+# Short-term Solar Irradiance Forecasting
 Deep Learning models for short-term solar forecasting <br>
-[in construction]
+An experimental transformer-based model was implemented. Obtainig results comparable with state of the art models.
+
